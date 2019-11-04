@@ -1,0 +1,16 @@
+#studentInfo {
+    border: 2px solid purple;
+    border-radius: 20px;
+    text-align: center;
+    padding: 50px;
+}
+
+.student {
+    font-weight: bold;
+    color: green;
+}
+
+.student:hover {
+    color: red;
+    border: 1px solid red;
+}
